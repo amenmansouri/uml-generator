@@ -1,0 +1,19 @@
+{
+    "menu": [
+      {
+        "id": "tools",
+        "submenu": [
+              {
+                "label": "generate",
+                "id": "tools.code",
+                "submenu": [
+                  { "label": "Generate Code...", "id": "tools.code.generate", "command": "code:generate" }
+                  
+                ]
+              }
+            ]
+          }
+        ]
+      }
+  
+  

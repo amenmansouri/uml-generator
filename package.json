@@ -1,0 +1,15 @@
+{
+    "name": "staruml.jhipster",
+    "title": "SpringBoot",
+    "description": "Generated Code Project Spring Boot .",
+    "keywords": ["spring boot"],
+    "version": "0.9.5",
+    "author": {
+        "name": "Mansouri Amen allah",
+        "email": "mansouriamen@gmail.com"
+       
+    }, 
+    "engines": {
+        "staruml": "^3.0.0"
+      }
+}
